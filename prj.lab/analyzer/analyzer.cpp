@@ -253,4 +253,5 @@ void stat() {
 int main() {
 	test_generator();
 	stat();
+	return 0;
 }
