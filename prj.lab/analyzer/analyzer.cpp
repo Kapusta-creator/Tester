@@ -251,6 +251,6 @@ void stat() {
 }
 
 int main() {
-	//test_generator();
+	test_generator();
 	stat();
 }
